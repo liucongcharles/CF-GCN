@@ -1,2 +1,2 @@
-# The code will be gradually made public after pre-acceptance of the paper
-# CF-GCN(remote sensing image change detection network)
+# The code of CF-GCN is coming soon
+# remote sensing image change detection network
