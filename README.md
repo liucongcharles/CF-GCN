@@ -1,2 +1,2 @@
-# The code of CF-GCN is coming soon
+# The code of CF-GCN will be coming soon
 # remote sensing image change detection network
